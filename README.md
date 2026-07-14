@@ -132,8 +132,8 @@ Goal:
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/DanishSammani
-* LinkedIn: Add Your LinkedIn
-* Email: Add Your Email
+* LinkedIn: https://www.linkedin.com/in/danishsammani/
+* Email: danishali8453@gmail.com
 
 ---
 
